@@ -74,7 +74,7 @@ async function getData() {
 
             html += `
             <tr>
-                <td>${doc.id}</td>
+                
                 <td>${data.name}</td>
                 <td>${data.date}</td>
                 <td>${data.time}</td>
